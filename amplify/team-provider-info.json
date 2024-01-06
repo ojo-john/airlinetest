@@ -1,0 +1,21 @@
+{
+  "ojojodev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ojojoairline-ojojodev-140611-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654347185:role/amplify-ojojoairline-ojojodev-140611-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654347185:role/amplify-ojojoairline-ojojodev-140611-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-ojojoairline-ojojodev-140611-deployment",
+      "UnauthRoleName": "amplify-ojojoairline-ojojodev-140611-unauthRole",
+      "StackName": "amplify-ojojoairline-ojojodev-140611",
+      "StackId": "arn:aws:cloudformation:us-west-2:654654347185:stack/amplify-ojojoairline-ojojodev-140611/e06d0880-ac05-11ee-b0b3-0648f68f3ded",
+      "AmplifyAppId": "d2so6wrveigd6b"
+    },
+    "categories": {
+      "auth": {
+        "ojojoairlineauth": {},
+        "userPoolGroups": {}
+      }
+    }
+  }
+}
